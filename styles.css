@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+.container{
+    color: #10ba76;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+img{
+    width:250px;
+    height: 250px;
+}
+.dice{
+
+    display: inline-block;
+    
+}
