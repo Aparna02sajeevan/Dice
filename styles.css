@@ -1,17 +1,20 @@
 body{
+
     text-align: center;
+    background-color: black;
 }
 .container{
+   
     color: #10ba76;
     font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
     
 }
 img{
-    width:250px;
-    height: 250px;
+    width:200px;
+    height: 200px;
 }
-.dice{
+.dices{
 
     display: inline-block;
     
